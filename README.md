@@ -53,7 +53,7 @@ sudo yum install python36u-devel libmysqlclient16-devel mysql-devel
 
 *Nota: Si se está usando un entorno virtual, lo mejor es ejecutar los comandos fuera de él y luego volverlo a crear.*
 
-Más infoción sobre mysqlclient https://pypi.org/project/mysqlclient/
+Más información sobre mysqlclient https://pypi.org/project/mysqlclient/
 
 ### Problema al ejecutar en modo DEBUG en Linux Mint
 
